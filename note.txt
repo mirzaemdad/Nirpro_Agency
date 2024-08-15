@@ -1,0 +1,61 @@
+fonst--
+Roboto Regular
+Roboto Medium
+Lato Regular
+Lato Medium
+Lato Bold
+Lato Semibold
+Pe icon 7 stroke
+FontAwesome
+
+font-style----
+font-family: "Lato", sans-serif;
+font-family: "Roboto", sans-serif;
+
+icon----
+<i class="fa-solid fa-mobile-screen"></i>
+
+
+<i class="fa-regular fa-lemon"></i>
+<i class="fa-regular fa-folder"></i>
+<i class="fa-solid fa-code"></i>
+<i class="fa-regular fa-envelope"></i>
+<i class="fa-regular fa-bookmark"></i>
+
+social icon----
+<i class="fa-brands fa-square-facebook"></i>
+<i class="fa-brands fa-square-twitter"></i>
+<i class="fa-brands fa-square-google-plus"></i>
+<i class="fa-brands fa-square-pinterest"></i>
+
+color------
+
+black: #010101
+ash:    #898989
+yel:    #fcbd00
+
+
+footer----------
+    xxl/xl/lg           md          sm/col
+   menu
+
+
+slider---------
+    xxl/ xl/lg          md          sm/col
+
+
+paddign
+    xxl/ xl/lg          md          sm/col
+
+
+
+
+
+
+
+
+    
+             
+            
+            
+           
